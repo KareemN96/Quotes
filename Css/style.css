@@ -1,0 +1,28 @@
+.full-bg {
+    background-image: url(../imgs/Free-4k-Backgrounds-Screen-Download.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    position: relative;
+}
+.full-bg .bg-layer {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.9;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn{
+    padding:25px 80px;
+}
+.btn:hover{
+    background-color:rgb(154, 99, 27);
+}
